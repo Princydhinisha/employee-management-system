@@ -1,0 +1,7 @@
+# Ignore node modules and build folders
+frontend/node_modules/
+backend/target/
+.vscode/
+.idea/
+*.log
+.DS_Store
